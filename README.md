@@ -6,7 +6,7 @@
 
 ## 📚 About Me
 
-* 🌱 I am currently in my first year of B.Tech
+* 🌱 I am currently in my first year of B.Tech CSE (AI & ML)
 * 💡 Interested in coding, software development, and new technologies
 * 🎯 My goal is to improve my skills and become a successful software developer
 * 📈 I believe in continuous learning and self-improvement
